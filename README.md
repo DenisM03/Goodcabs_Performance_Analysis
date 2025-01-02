@@ -6,6 +6,7 @@
 **Project Title** : Goodcabs Performance Analysis   
 **Domain**:  Transportation & Mobility          
 
+**Dashboard link :**
 
 ## **About CodeX**
 
@@ -271,7 +272,7 @@ FROM CTE;
 
 # **Primary Insights**
 
-Check out the Project Insights pdf
+[Check out the Project Insights pdf](https://github.com/DenisM03/Goodcabs_Performance_Analysis/blob/main/Goodcabs%20Performance%20Analysis.pdf)
 
 ### Further analysis & recommendations:
 
