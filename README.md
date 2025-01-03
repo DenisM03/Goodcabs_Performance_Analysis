@@ -6,7 +6,8 @@
 **Project Title** : Goodcabs Performance Analysis   
 **Domain**:  Transportation & Mobility          
 
-**Dashboard link :**
+**Dashboard link :**   
+https://app.powerbi.com/view?r=eyJrIjoiM2E0NzkxNDQtNDNjYS00ZGY2LTg5NzktYzc1ZTBiOTFlMWUyIiwidCI6IjUxNjk4MzNiLWUxZWItNDlkNC1iODBiLWM0MTNjOTMxMWZkYSJ9
 
 ## **About CodeX**
 
